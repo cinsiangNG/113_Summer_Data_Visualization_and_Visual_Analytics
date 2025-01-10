@@ -12,3 +12,7 @@
 * [HW7](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%237%20--%20Horizon%20Charts)  
 * [HW8](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%238%20--%20Sankey%20Diagram)  
 
+## **Paper Presentation**
+Please refer to the website for more information.
+[Visualization Paper](https://arxiv.org/pdf/2209.13981)
+[HackMD](https://hackmd.io/pgQdTHwiQMmV3dkDRUwaKQ?both)
