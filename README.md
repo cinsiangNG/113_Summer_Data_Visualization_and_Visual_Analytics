@@ -4,8 +4,8 @@
 ## **Homeworks**
 * [HW1](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%231%20--%20Scatter%20Plots)  
 * [HW2](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%232%20--%20Parallel%20Coordinate%20Plots)  
--[HW3](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%233%20--%20Correlation%20matrices)  
--[HW4](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%234%20--%20Brushable%20Scatter%20Plot%20Matrix
+- [HW3](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%233%20--%20Correlation%20matrices)  
+- [HW4](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%234%20--%20Brushable%20Scatter%20Plot%20Matrix
 )  
 -[HW5](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%235%20--%20Stacked%20Bar%20Charts)  
 -[HW6](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%236%20--%20ThemeRiver)  
