@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  overflow: auto;
+}
+
+text {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+.item {
+  display: inline-block;
+  align-items: center;
+}
+
+g text {
+  font-size: 0.8em; 
+}
+
+/* 
+.container, .item {
+  border: 1px solid red; 
+} */
+
