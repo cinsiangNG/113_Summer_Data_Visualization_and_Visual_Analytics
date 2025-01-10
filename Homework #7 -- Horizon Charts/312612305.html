@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework #7 -- Horizon Charts</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+</head>
+
+<body class="text-center">
+    <h2 class="my-3"><a href="https://www.kaggle.com/datasets/bappekim/air-pollution-in-seoul" target="_blank">Air Pollution in Seoul</a></h2>
+    
+    <div class="my-3">
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="type" id="inlineRadio1" value="SO2" checked>
+            <label class="form-check-label" for="inlineRadio1">SO2</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="type" id="inlineRadio2" value="NO2">
+            <label class="form-check-label" for="inlineRadio2">NO2</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="type" id="inlineRadio3" value="O3">
+            <label class="form-check-label" for="inlineRadio3">O3</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="type" id="inlineRadio4" value="CO">
+            <label class="form-check-label" for="inlineRadio4">CO</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="type" id="inlineRadio5" value="PM10">
+            <label class="form-check-label" for="inlineRadio5">PM10</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" type="radio" name="type" id="inlineRadio6" value="PM2.5">
+            <label class="form-check-label" for="inlineRadio6">PM2.5</label>
+        </div>
+    </div>
+    <h5>💡 You can choose specific time periods or even several districts(0-25) for comparison and analysis.</h2>
+    <div id="filters" class="my-3"></div>
+    <div id="statistics" class="my-3"></div>
+    <div id="horizon-chart" class="my-3"></div>
+    <hr class="my-3">
+    <fieldset>
+        <div>
+          <h1>Homework #7 -- Horizon Charts</h1>
+        </div>
+      </fieldset>
+        <hr>
+    <div class="text-muted small">
+        <p>Author: 黃俊翔</p>
+        <p>Student ID: 312612305</p>
+        <p>Date: 2024/10/22</p>
+    </div>
+</body>
+<script src="https://d3js.org/d3.v6.js"></script>
+<script src="//unpkg.com/horizon-timeseries-chart"></script>
+<!--<script src="../../dist/horizon-timeseries-chart.js"></script>-->
+<script src="312612305.js"></script>
+</html>
