@@ -14,5 +14,5 @@
 
 ## **Paper Presentation**
 Please refer to the website for more information.  
-*[Visualization Paper](https://arxiv.org/pdf/2209.13981)  
-*[HackMD](https://hackmd.io/pgQdTHwiQMmV3dkDRUwaKQ?both)
+* [Visualization Paper](https://arxiv.org/pdf/2209.13981)  
+* [HackMD](https://hackmd.io/pgQdTHwiQMmV3dkDRUwaKQ?both)
