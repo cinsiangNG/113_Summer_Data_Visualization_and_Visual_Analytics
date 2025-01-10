@@ -10,7 +10,7 @@
 * [HW5](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%235%20--%20Stacked%20Bar%20Charts)  
 * [HW6](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%236%20--%20ThemeRiver)  
 * [HW7](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%237%20--%20Horizon%20Charts)  
-* [HW8](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%238%20--%20Sankey%20Diagram)  
+* [HW8](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/blob/7dc6b890dc445522993f48e2f87ba0a8095ed3af/Homework%20%232%20--%20Parallel%20Coordinate%20Plots/312612305.html)    
 
 ## **Paper Presentation**
 Please refer to the website for more information.  
