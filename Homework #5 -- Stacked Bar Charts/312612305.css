@@ -1,0 +1,66 @@
+.title {
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.lengend-container {
+    display: flex;
+    gap: 2rem;
+    margin: 20px;
+}
+
+.selection-container {
+    margin: 20px;
+}
+
+#square_teaching {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background: #BF0060;
+}
+
+#square_research {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background: #6F00D2;
+}
+
+#square_citation {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background: #01B468;
+}
+
+#square_industry_income {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background: #FF8000;
+}
+
+#square_international_outlook {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    background: #0066CC;
+}
+
+.x-axis-label {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.tooltip {
+    background-color: #ffffff;
+    font-family: lato;
+    font-size: 14px;
+    padding: 4px;
+    color: #181818;
+    border: none;
+    box-shadow: 0px 0px 3px 0px #e6e6e6;
+}

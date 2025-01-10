@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Homework #5 -- Stacked Bar Charts</title>
+    <link rel="stylesheet" href="312612305.css" />
+  </head>
+
+  <body>
+    <p class="title">
+      Stacked Bar Charts - Times World University
+      Rankings 2024
+    </p>
+    <div class="lengend-container">
+      <div style="display: flex">
+        <span
+          id="square_teaching"
+          style="display: inline-block"
+        >
+        </span>
+        Teaching
+      </div>
+      <div style="display: flex">
+        <span
+          id="square_research"
+          style="display: inline-block"
+        >
+        </span>
+        Research
+      </div>
+      <div style="display: flex">
+        <span
+          id="square_citation"
+          style="display: inline-block"
+        >
+        </span>
+        Citations
+      </div>
+      <div style="display: flex">
+        <span
+          id="square_industry_income"
+          style="display: inline-block"
+        >
+        </span>
+        Industry Income
+      </div>
+      <div style="display: flex">
+        <span
+          id="square_international_outlook"
+          style="display: inline-block"
+        >
+        </span>
+        International Outlook
+      </div>
+    </div>
+    <div class="selection-container">
+      <label for="sort-key">Sort by: </label>
+      <select id="sort-key">
+        <option value="scores_sum">
+          Overall Scores
+        </option>
+        <option value="scores_teaching">
+          Teaching
+        </option>
+        <option value="scores_research">
+          Research
+        </option>
+        <option value="scores_citations">
+          Citations
+        </option>
+        <option value="scores_industry_income">
+          Industry Income
+        </option>
+        <option
+          value="scores_international_outlook"
+        >
+          Internationl Outlook
+        </option>
+      </select>
+      <select id="sort-type">
+        <option value="descending">
+          Descending
+        </option>
+        <option value="ascending">
+          Ascending
+        </option>
+      </select>
+    </div>
+    <svg></svg>
+    <fieldset style="text-align: center;">
+        <div>
+          <h1>Homework #5 -- Stacked Bar Charts</h1>
+        </div>
+      </fieldset>
+          <hr>
+    <div class="footer" style="font-size: small; color: gray; text-align: center;">
+        <p>Author: 黃俊翔</p>
+        <p>Student ID: 312612305</p>
+        <p>Date: 2024/10/9</p>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="312612305.js" type="module"></script>
+
+    <script src="bundle.js"></script>
+  </body>
+</html>
