@@ -3,7 +3,7 @@
 
 ## **Homeworks**
 [HW1](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%231%20--%20Scatter%20Plots)  
-HW2
+[HW2](https://github.com/cinsiangNG/113_Summer_Data_Visualization_and_Visual_Analytics/tree/main/Homework%20%232%20--%20Parallel%20Coordinate%20Plots)
 HW3
 HW4
 HW5
