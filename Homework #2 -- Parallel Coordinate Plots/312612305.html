@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Homework #2 -- Parallel Coordinate Plots</title>
+    <link rel="stylesheet" href="312612305.css">
+    <script src="https://www.unpkg.com/d3@7.8.5/dist/d3.min.js"></script>
+    <script src="https://www.itxst.com/package/sortable/sortable.min.js"></script>
+  </head>
+  <body style="text-align: center;">
+    <div id="dataset"></div>
+    <div id="itxst">
+        <div data-id="sepal length" id="sepal_length">sepal length</div>
+        <div data-id="sepal width" id="sepal_width">sepal width</div>
+        <div data-id="petal length" id="petal_length">petal length</div>
+        <div data-id="petal width" id="petal_width">petal width</div>
+        <div data-id="class" id="class">class</div>
+    </div>
+    <svg width="960" height="450"></svg>
+    <script src="312612305.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+          var el = document.getElementById('itxst');
+          // Set configuration
+          var ops = {
+              animation: 500,
+              // Dragging ends
+              onEnd: function (evt) {
+                  // Get the sorted order after dragging
+                  var arr = sortable.toArray();
+                  console.log(arr);
+                  render(arr);
+              },
+          };
+          // Initialize
+          var sortable = Sortable.create(el, ops);
+      });
+    </script>
+    <fieldset>
+      <div>
+        <h1>Homework #2 -- Parallel Coordinate Plots</h1>
+      </div>
+    </fieldset>
+        <hr>
+        <div class="footer" style="font-size: small; color: gray;">
+            <p>Author: 黃俊翔</p>
+            <p>Student ID: 312612305</p>
+            <p>Date: 2024/09/18</p>
+        </div>
+  </body>
+</html>
